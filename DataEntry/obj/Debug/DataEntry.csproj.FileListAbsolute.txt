@@ -1,0 +1,9 @@
+C:\Users\Nawang\OneDrive\Documents\cSharp Project\SolarityDataEntry\DataEntry\DataEntry\bin\Debug\DataEntry.exe.config
+C:\Users\Nawang\OneDrive\Documents\cSharp Project\SolarityDataEntry\DataEntry\DataEntry\bin\Debug\DataEntry.exe
+C:\Users\Nawang\OneDrive\Documents\cSharp Project\SolarityDataEntry\DataEntry\DataEntry\bin\Debug\DataEntry.pdb
+C:\Users\Nawang\OneDrive\Documents\cSharp Project\SolarityDataEntry\DataEntry\DataEntry\obj\Debug\DataEntry.csprojResolveAssemblyReference.cache
+C:\Users\Nawang\OneDrive\Documents\cSharp Project\SolarityDataEntry\DataEntry\DataEntry\obj\Debug\DataEntry.frmMain.resources
+C:\Users\Nawang\OneDrive\Documents\cSharp Project\SolarityDataEntry\DataEntry\DataEntry\obj\Debug\DataEntry.Properties.Resources.resources
+C:\Users\Nawang\OneDrive\Documents\cSharp Project\SolarityDataEntry\DataEntry\DataEntry\obj\Debug\DataEntry.csproj.GenerateResource.Cache
+C:\Users\Nawang\OneDrive\Documents\cSharp Project\SolarityDataEntry\DataEntry\DataEntry\obj\Debug\DataEntry.exe
+C:\Users\Nawang\OneDrive\Documents\cSharp Project\SolarityDataEntry\DataEntry\DataEntry\obj\Debug\DataEntry.pdb
