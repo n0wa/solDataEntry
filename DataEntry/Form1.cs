@@ -40,7 +40,7 @@ namespace DataEntry
             {
                 con.Open();
                 DataTable dt = new DataTable();
-                adapt = new SqlDataAdapter("SELECT [AccountNumber],[LoanID],[FundedAmount],[LoanTypeDescription],[MarkForDelete] "
+                adapt = new SqlDataAdapter("SELECT [AccountNumber],[LoanID],[EffectiveDate],[FundedAmount],[LoanTypeDescription],[MarkForDelete] "
                                            + "FROM [dbo].[loanFundedLIP] "
                                            + "where [EffectiveDate]= '" + dateTimePicker1.Value.ToString() + "'"
                                            + "And [MarkForDelete] = '" + 0 + "'"
@@ -48,8 +48,6 @@ namespace DataEntry
                 ds = new System.Data.DataSet();
                 adapt.Fill(ds, "Loans");
                 dataGridView1.DataSource = ds.Tables[0];
-                //adapt.Fill(dt);
-                //dataGridView1.DataSource = dt;
                 con.Close();
             }
             catch (Exception ex)
@@ -79,7 +77,7 @@ namespace DataEntry
                 MessageBox.Show(ex.Message, "Error ", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-        
+
 
 
         
